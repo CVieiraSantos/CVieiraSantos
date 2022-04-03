@@ -2,6 +2,9 @@
 ##
 - 👋 Apaixonado por tecnologia
 - 👀 Estudante de análise e desenvolvimento de sistemas
+- ✌  Atualmente tenho criado projetos próprios de estudos na linguagem de programação C#
+- 💻 Me pergunte sobre tecnologia, projetos na linguagem C# - ficarei feliz em ajudar :)
+- 😊 Saiba mais sobre mim em https://www.linkedin.com/in/carlos-vieirasantos/
 
 <br>
 <div>
