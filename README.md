@@ -3,6 +3,7 @@
 - 👋 Apaixonado por tecnologia
 - 👀 Estudante de análise e desenvolvimento de sistemas
 
+<br>
 <div>
 <a href="https://github.com/CVieiraSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CVieiraSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
