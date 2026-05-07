@@ -1,51 +1,31 @@
-### Olá eu sou o Carlos Vieira
-##
-- 👋 Apaixonado por tecnologia
-- 👀 Estudante de análise e desenvolvimento de sistemas
-- ✌  Atualmente tenho criado projetos próprios de estudos na linguagem de programação C#
-- 💻 Me pergunte sobre tecnologia, projetos na linguagem C# - ficarei feliz em ajudar :)
-- 😊 Saiba mais sobre mim em https://www.linkedin.com/in/carlos-vieirasantos/
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:00D9FF&height=140&section=header&animation=twinkling"/>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=CVieiraSantos&label=Profile%20views&color=512BD4&style=flat-square" />
+</p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=750&height=110&lines=%24+whoami;Carlos+Vieira+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" />
+  </a>
+</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-vieirasantos/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:carlos.eduvieirasantos@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/CVieiraSantos" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<br>
-<div>
-<a href="https://github.com/CVieiraSantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CVieiraSantos&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=chartreuse-dark "/>
-</div>
-
-
-  <div style="display: inline_block"><br>
-  
-  <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Carlos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Carlos-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" alt="Carlos-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="Carlos-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />              
-  <img align="center" alt="Carlos-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Carlos-SqlServer" height="30" width="40" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img align="center" alt="Carlos-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-          
-
-  </div>
-  
-  ##
-  
-  ### Entre em contato comigo
-  <div> 
-  
-  <a href = "mailto:carlos.eduvieirasantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlos-vieirasantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-  
- <div> 
-  
- 
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcal04/marcal04/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CVieiraSantos/CVieiraSantos/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CVieiraSantos/CVieiraSantos/output/pacman-contribution-graph.svg">
-</picture>
- 
-</div>
+<img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px"> Olá, Mundo!
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+🏠 Rio de Janeiro, Brasil 🇧🇷
+🎯 Foco total em C# | .NET | Back-End
+🐳 Explorando Docker, SQL Server e Linux
+🚀 Buscando minha primeira oportunidade como dev
+💡 Acredito em código limpo, testes e boa documentação
+🧩 Gosto de resolver problemas reais com tecnologia
+📚 Sempre aprendendo e construindo projetos próprios
