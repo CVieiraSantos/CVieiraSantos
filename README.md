@@ -29,14 +29,13 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=regex,bash,powershell,linux,github,stackoverflow,vscode,visualstudio,postman,git,mysql,postgres,sqlite,js,jquery,nodejs,angular,npm,cpp,cs,dotnet,html,css,bootstrap" />
 
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
-    width="40"
-    height="40"
-    style="vertical-align: middle;"
-  />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CVieiraSantos/CVieiraSantos/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CVieiraSantos/CVieiraSantos/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CVieiraSantos/CVieiraSantos/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
+###
 
 📌 Featured Projects
 <p align="center">
