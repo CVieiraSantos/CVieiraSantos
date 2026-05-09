@@ -29,47 +29,8 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=regex,bash,powershell,linux,github,stackoverflow,vscode,visualstudio,postman,git,mysql,postgres,sqlite,js,jquery,nodejs,angular,npm,cpp,cs,dotnet,html,css,bootstrap" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CVieiraSantos/CVieiraSantos/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CVieiraSantos/CVieiraSantos/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CVieiraSantos/CVieiraSantos/pacman-output/pacman-contribution-graph.svg">
-</picture>
 
-###
-
-📌 Featured Projects
-<p align="center">
-  <a href="https://github.com/CVieiraSantos?tab=repositories">
-    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=CVieiraSantos&repo=COLOQUE-SEU-REPO-AQUI&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=512BD4&hide_border=true&border_radius=12&show_icons=true" align="center" />
-  </a>
-  <a href="https://github.com/CVieiraSantos?tab=repositories">
-    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=CVieiraSantos&repo=COLOQUE-SEU-REPO-AQUI&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=512BD4&hide_border=true&border_radius=12&show_icons=true" align="center" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/CVieiraSantos?tab=repositories">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Ver%20Todos%20os%20Repositórios-0D1117?style=for-the-badge&logoColor=white&logo=repo&color=512BD4" />
-  </a>
-</p>
-
-💼 Recrutador?
-[!IMPORTANT]
-Estou aberto a oportunidades de estágio, junior ou freelance em desenvolvimento back-end com C#/.NET.
-<a href="mailto:carlos.eduvieirasantos@gmail.com?subject=Oportunidade%20de%20Trabalho" target="_blank"> <img src="https://img.shields.io/badge/📧%20Entre%20em%20Contato-512BD4?style=for-the-badge&logoColor=white" /> </a>
-
-🤝 Connect with Me
-<div align="center">
-  <a href="https://www.linkedin.com/in/carlos-vieirasantos/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:carlos.eduvieirasantos@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/CVieiraSantos" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
+&nbsp;&nbsp;&nbsp;
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CVieiraSantos/CVieiraSantos/output/pacman-contribution-graph-dark.svg">
@@ -78,10 +39,18 @@ Estou aberto a oportunidades de estágio, junior ou freelance em desenvolvimento
   </picture>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:512BD4&height=120&section=footer&animation=twinkling"/>
-<div align="center">
-  <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=O%20código%20é%20a%20poesia%20da%20lógica.&author=Carlos%20Vieira" />
-  <br><br>
-  <i>⭐ Obrigado pela visita! Volte sempre.</i>
-</div>
+## &nbsp;🤝 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/carlos-vieirasantos/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/CVieiraSantos" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:carlos.eduvieirasantos@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" />
+  </a>
+</p>
+
